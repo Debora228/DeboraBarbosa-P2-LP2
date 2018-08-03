@@ -7,7 +7,7 @@ if a <b:
 else:
     fim = b
     
-for i in range(50,fim):
+for i in range(50,fim,-1):
     if i%a ==0 and i%b == 0:
         cont = cont +1
 
