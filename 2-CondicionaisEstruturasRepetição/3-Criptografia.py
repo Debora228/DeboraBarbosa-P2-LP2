@@ -1,4 +1,4 @@
-a,b = input().split(" ")
+a,b = input().split(" ")        
 crip = ""
 
 if len(a) == len(b) and a.islower() and b.islower() :
